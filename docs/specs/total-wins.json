@@ -6,7 +6,7 @@
   },
   "mark": "bar",
   "encoding": {
-    "x": {"field": "win", "type": "quantitative", "title": null, "aggregate": "sum"},
+    "x": {"field": "win", "type": "quantitative", "title": "Wins with ties", "aggregate": "sum"},
     "y": {"field": "name", "type": "nominal", "title": null}
   },
   "width": 400
