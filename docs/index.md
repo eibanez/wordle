@@ -2,7 +2,7 @@
 title: Wordle scores
 ---
 
-## Total wins
+<div id="total-wins-alone"></div>
 <div id="total-wins"></div>
 
 
@@ -12,5 +12,6 @@ title: Wordle scores
 <script src="plots.js"></script>
 
 <script type="text/javascript">
+  load_plot("total-wins-alone");
   load_plot("total-wins");
 </script>
