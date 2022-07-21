@@ -12,12 +12,5 @@ title: Wordle scores
 <script src="plots.js"></script>
 
 <script type="text/javascript">
-  load_plot("compare-distance-bar-total");
-  load_plot("compare-distance-line-total");
-  load_plot("compare-distance-bar-year");
-  load_plot("compare-distance-line-year");
-  load_plot("compare-distance-line-this-year");
-  load_plot("compare-time-pace");
-  load_plot("compare-time-distance");
-  load_plot("compare-distance-bar-month");
+  load_plot("total-wins");
 </script>
