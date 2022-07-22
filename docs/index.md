@@ -2,9 +2,9 @@
 title: Wordle scores
 ---
 
-<div id="total-wins"></div>
-<div id="time-wins-alone"></div>
-<div id="time-wins-ties"></div>
+<div id="total-wins"></div><br />
+<div id="time-wins-alone"></div><br />
+<div id="time-wins-ties"></div><br />
 <div id="score-histogram"></div>
 
 
