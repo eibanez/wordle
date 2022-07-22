@@ -23,6 +23,6 @@
       }
     }
   ],
-  "width": 350,
+  "width": "container",
   "height": 500
 }
