@@ -5,6 +5,7 @@ title: Wordle scores
 <div id="total-wins-alone"></div>
 <div id="total-wins"></div>
 <div id="time-wins-alone"></div>
+<div id="time-wins-ties"></div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
@@ -16,4 +17,5 @@ title: Wordle scores
   load_plot("total-wins-alone");
   load_plot("total-wins");
   load_plot("time-wins-alone");
+  load_plot("time-wins-ties");
 </script>
