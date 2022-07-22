@@ -17,6 +17,6 @@
     "y": {"field": "total_wins", "type": "quantitative", "title": "Total wins (with ties)"},
     "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
   },
-  "width": "container",
+  "width": 350,
   "height": 200
 }
