@@ -2,10 +2,10 @@
 title: Wordle scores
 ---
 
-<div id="total-wins"></div>
-<div id="time-wins-alone"></div>
-<div id="time-wins-ties"></div>
-<div id="score-histogram"></div>
+<p width="100%><div id="total-wins"></div></p>
+<p width="100%><div id="time-wins-alone"></div></p>
+<p width="100%><div id="time-wins-ties"></div></p>
+<p width="100%><div id="score-histogram"></div></p>
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
