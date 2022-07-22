@@ -15,7 +15,7 @@
   "encoding": {
     "x": {"field": "wordle_no", "type": "quantitative", "title": null},
     "y": {"field": "total_wins", "type": "quantitative", "title": "Total wins"},
-    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
+    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
   },
   "width": "container",
   "height": 250
