@@ -1,13 +1,43 @@
+
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
     "name": "data",
-    "url": "https://eibanez.github.io/wordle_scores/score-by-player.json"
+    "url": "https://eibanez.github.io/wordle/score-by-player.json"
   },
-  "mark": "bar",
   "encoding": {
-    "x": {"field": "win", "type": "quantitative", "title": "Wins with ties", "aggregate": "sum"},
-    "y": {"field": "name", "type": "nominal", "title": null}
+    "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
   },
-  "width": 400
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+         "x": {"field": "win", "type": "quantitative", "title": null, "aggregate": "sum"},
+         "color": {"datum": "Wins with ties", "scale": {"range": ["#675193", "#ca8861"]}}
+      }
+    },
+    {
+      "mark": "bar",
+      "encoding": {
+         "x": {"field": "win_alone", "type": "quantitative", "title": null, "aggregate": "sum"},
+         "color": {"datum": "Wins alone", "scale": {"range": ["#675193", "#ca8861"]}}
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "encoding": {
+         "x": {"field": "win_alone", "type": "quantitative", "title": null, "aggregate": "sum"},
+         "text": {"field": "win_alone", "type": "quantitative", "title": null, "aggregate": "sum"}
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "encoding": {
+         "x": {"field": "win", "type": "quantitative", "title": null, "aggregate": "sum"},
+         "text": {"field": "win", "type": "quantitative", "title": null, "aggregate": "sum"}
+      }
+    }
+  ],
+  "width": "container",
+  "height": 100
 }
