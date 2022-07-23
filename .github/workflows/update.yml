@@ -22,8 +22,8 @@ jobs:
       run: |
         python scripts/process-issue.py
       env:
-        title: ${{ github.event.issue.title }}
-        body: ${{ github.event.issue.body }}
+        ISSUE_TITLE: ${{ github.event.issue.title }}
+        ISSUE_BODY: ${{ github.event.issue.body }}
     - name: Update results
       run: |
         python scripts/process-scores.py
