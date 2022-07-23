@@ -1,4 +1,5 @@
 import json
+import os
 
 NAMES = ['Jessica', 'Brian', 'Eduardo']
 
@@ -26,5 +27,5 @@ for d in data:
         
         scores.append(new_score)
 
-with open('score-by-player.json', 'w') as f2:
+with open(os.path.join('docs', 'score-by-player.json'), 'w') as f2:
     json.dump(scores, f2, indent = 2)
