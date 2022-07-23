@@ -1,0 +1,39 @@
+name: Update data
+
+on:
+  issues:
+    types: opened
+
+jobs:
+  build:
+    name: Gather data
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.6
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.6
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pytz
+    - name: Copy results from issue
+      run: |
+        python scripts/process-issue.py
+    - name: Update results
+      run: |
+        python scripts/process-scores.py
+    - name: Commit results to this repository
+      continue-on-error: true
+      run: |
+        git config --global user.name 'Run bot'
+        git config --global user.email 'eibanez@users.noreply.github.com'
+        git commit -am "Automated update of data"
+        git push
+    - name: Close issue
+      uses: peter-evans/close-issue@v1
+      if: ${{ github.event_name == 'issues' }}
+      with:
+        comment: |
+          Finished the update -- Closing
