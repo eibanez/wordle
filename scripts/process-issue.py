@@ -1,3 +1,3 @@
-import ps
+import os
 
 print(os.environ)
