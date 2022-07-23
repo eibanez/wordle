@@ -1,3 +1,4 @@
+import json
 import os
 
 new_entry = {'wordle_no': int(os.environ['ISSUE_TITLE'])}
@@ -19,4 +20,10 @@ for d in os.environ['ISSUE_BODY'].upper().split():
   
   new_entry[name] = score
 
-print(new_entry)
+with open('master-scores.json', 'r') as f:
+  data = json.read(f)
+
+data.append(new_entry)
+
+with open('master-scores.json', 'w') as f:
+  json.dump(data, f, indent = 2)
