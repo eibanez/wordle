@@ -21,7 +21,7 @@ for d in os.environ['ISSUE_BODY'].upper().split():
   new_entry[name] = score
 
 with open('master-scores.json', 'r') as f:
-  data = json.read(f)
+  data = json.load(f)
 
 data.append(new_entry)
 
