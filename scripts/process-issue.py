@@ -1,5 +1,3 @@
-import sys
+import ps
 
-for a in sys.argv:
-    print(a)
-    print('------------------------')
+print(os.environ)
