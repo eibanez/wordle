@@ -20,7 +20,7 @@ jobs:
         pip install pytz
     - name: Copy results from issue
       run: |
-        python scripts/process-issue.py ${{ github.event.issue.title }}  ${{ github.event.issue.description }}
+        python scripts/process-issue.py ${{ github.event.issue.title }}  ${{ github.event.issue.body }}
     - name: Update results
       run: |
         python scripts/process-scores.py
