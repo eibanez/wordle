@@ -3337,5 +3337,26 @@
     "score": 5,
     "win": 1,
     "win_alone": 0
+  },
+  {
+    "wordle_no": 403,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1
+  },
+  {
+    "wordle_no": 403,
+    "name": "Brian",
+    "score": 6,
+    "win": 0,
+    "win_alone": 0
+  },
+  {
+    "wordle_no": 403,
+    "name": "Eduardo",
+    "score": 5,
+    "win": 0,
+    "win_alone": 0
   }
 ]
