@@ -1038,5 +1038,11 @@
     "Eduardo": 5,
     "Brian": 6,
     "Jessica": 2
+  },
+  {
+    "wordle_no": 404,
+    "Jessica": 3,
+    "Eduardo": 4,
+    "Brian": 5
   }
 ]
