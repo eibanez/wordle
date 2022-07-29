@@ -5,6 +5,7 @@ title: Wordle scores
 <div id="total-wins"></div><br />
 <div id="time-wins-alone"></div><br />
 <div id="time-wins-ties"></div><br />
+<div id="streak-duration"></div><br />
 <div id="score-histogram"></div>
 
 
@@ -17,5 +18,6 @@ title: Wordle scores
   load_plot("total-wins");
   load_plot("time-wins-alone");
   load_plot("time-wins-ties");
+  load_plot("streak-duration");
   load_plot("score-histogram");
 </script>
