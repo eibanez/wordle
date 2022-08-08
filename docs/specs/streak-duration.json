@@ -35,7 +35,12 @@
       }
     },
     {
-      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "mark": {
+        "type": "text",
+        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 'left' : 'right'"},
+        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 5 : -5"},
+        "color": "white"
+      },
       "encoding": {
          "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}},
          "text": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}}
