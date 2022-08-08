@@ -17,7 +17,12 @@
       }
     },
     {
-      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "mark": {
+        "type": "text",
+        "align": {"expr": "datum['__count'] <= 5 ? 'left' : 'right'"},
+        "xOffset": {"expr": "datum['__count'] <= 5 ? 5 : -5"},
+        "color": {"expr": "datum['__count'] <= 5 ? 'black' : 'white'"}
+      },
       "encoding": {
         "text": {"field": "score", "type": "quantitative", "title": null, "aggregate": "count"}
       }
