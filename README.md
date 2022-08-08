@@ -1,4 +1,3 @@
-# wordle_scores
-Tracking Wordle scores
+# Tracking Wordle scores
 
-https://eibanez.github.io/wordle/
+Live updates to the scores are available at: https://eibanez.github.io/wordle/
