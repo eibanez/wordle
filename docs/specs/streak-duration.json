@@ -10,43 +10,29 @@
     "aggregate": [{"op": "count", "as": "streak_duration"}], "groupby": ["name", "streak_id"]
   }],
   "encoding": {
-      "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+      "x": {"field": "streak_duration", "type": "quantitative", "title": "Streak duration"},
+      "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"], "paddingInner": 0}},
+      "yOffset": {"field": "streak_id", "type": "nominal"}
   },
   "layer": [
     {
-      "mark": "bar",
+      "mark": {"type": "bar"},
       "encoding": {
-         "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": "max"},
-         "color": {"datum": "Longest streak", "scale": {"range": ["#ca8861", "#675193"]}}
-      }
-    },
-    {
-      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
-      "encoding": {
-         "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": "max"},
-         "text": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": "max"}
-      }
-    },
-    {
-      "mark": "bar",
-      "encoding": {
-         "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}},
-         "color": {"datum": "Current streak", "scale": {"range": ["#ca8861", "#675193"]}}
-      }
+         "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}, "legend": null}
+      },
     },
     {
       "mark": {
         "type": "text",
-        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 'left' : 'right'"},
-        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 5 : -5"},
-        "color": "white"
+        "align": {"expr": "datum.streak_duration <= 5 ? 'left' : 'right'"},
+        "xOffset": {"expr": "datum.streak_duration < 5 ? 5 :-5"},
+        "color": {"expr": "datum.streak_duration <= 5 ? 'black' : 'white'"}
       },
       "encoding": {
-         "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}},
-         "text": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}}
+         "text": {"field": "streak_duration", "type": "quantitative", "title": null}
       }
     }
   ],
   "width": 300,
-  "height": 100
+  "height": 350
 }
