@@ -15,10 +15,6 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install pytz
     - name: Copy results from issue
       if: ${{ github.event_name == 'issues' }}
       run: |
@@ -27,6 +23,7 @@ jobs:
         ISSUE_TITLE: ${{ github.event.issue.title }}
         ISSUE_BODY: ${{ github.event.issue.body }}
     - name: Update results
+      continue-on-error: true
       run: |
         python scripts/process-scores.py
     - name: Commit results to this repository
