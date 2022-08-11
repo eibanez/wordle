@@ -17,7 +17,7 @@
       "mark": {"type": "bar"},
       "encoding": {
          "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": "max"},
-         "color": {"datum": "Longest streak", "scale": {"range": ["#ca8861", "#675193"]}}
+         "color": {"datum": "Longest streak", "scale": {"range": ["DarkBlue", "CornflowerBlue"]}}
       }
     },
     {
@@ -31,7 +31,7 @@
       "mark": {"type": "bar"},
       "encoding": {
          "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}},
-         "color": {"datum": "Current streak", "scale": {"range": ["#ca8861", "#675193"]}}
+         "color": {"datum": "Current streak", "scale": {"range": ["DarkBlue", "CornflowerBlue"]}}
       }
     },
     {
