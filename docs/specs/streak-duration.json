@@ -14,7 +14,7 @@
   },
   "layer": [
     {
-      "mark": "bar",
+      "mark": {"type": "bar"},
       "encoding": {
          "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": "max"},
          "color": {"datum": "Longest streak", "scale": {"range": ["#ca8861", "#675193"]}}
@@ -28,7 +28,7 @@
       }
     },
     {
-      "mark": "bar",
+      "mark": {"type": "bar"},
       "encoding": {
          "x": {"field": "streak_duration", "type": "quantitative", "title": null, "aggregate": {"argmax": "streak_id"}},
          "color": {"datum": "Current streak", "scale": {"range": ["#ca8861", "#675193"]}}
@@ -37,8 +37,8 @@
     {
       "mark": {
         "type": "text",
-        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 'left' : 'right'"},
-        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 5 ? 5 : -5"},
+        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 10 ? 'left' : 'right'"},
+        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 10 ? 5 : -5"},
         "color": "white"
       },
       "encoding": {
