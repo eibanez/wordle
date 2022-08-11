@@ -13,14 +13,14 @@
       "mark": "bar",
       "encoding": {
          "x": {"field": "win", "type": "quantitative", "title": null, "aggregate": "sum"},
-         "color": {"datum": "Wins with ties", "scale": {"range": ["#675193", "#ca8861"]}}
+         "color": {"datum": "Wins with ties", "scale": {"range": ["FireBrick", "GoldenRod"]}}
       }
     },
     {
       "mark": "bar",
       "encoding": {
          "x": {"field": "win_alone", "type": "quantitative", "title": null, "aggregate": "sum"},
-         "color": {"datum": "Wins alone", "scale": {"range": ["#675193", "#ca8861"]}}
+         "color": {"datum": "Wins alone", "scale": {"range": ["FireBrick", "GoldenRod"]}}
       }
     },
     {
