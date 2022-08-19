@@ -37,8 +37,8 @@
     {
       "mark": {
         "type": "text",
-        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 10 ? 'left' : 'right'"},
-        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 10 ? 5 : -5"},
+        "align": {"expr": "datum['argmax_streak_id']['streak_duration'] < 15 ? 'left' : 'right'"},
+        "xOffset": {"expr": "datum['argmax_streak_id']['streak_duration'] < 15 ? 5 : -5"},
         "color": "white"
       },
       "encoding": {
