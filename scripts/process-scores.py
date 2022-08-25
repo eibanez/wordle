@@ -7,12 +7,16 @@ with open('master-scores.json') as f:
     data = json.load(f)
 
 scores = []
+master_out = []
 streak_tracker = {n: 1 for n in NAMES}
 
 for d in data:
     # Skip days before Brian started playing
     if d['wordle_no'] < 244:
         continue
+    
+    # Copy for the master output file
+    master_out.append(d)
     
     # Calculate minimum score
     win_score = min(d[n] for n in NAMES if d[n] != 'X')
@@ -39,3 +43,6 @@ for d in data:
 
 with open(os.path.join('docs', 'score-by-player.json'), 'w') as f2:
     json.dump(scores, f2, indent = 2)
+
+with open(os.path.join('docs', 'master-scores.json'), 'w') as f2:
+    json.dump(master_out, f2, indent = 2)
