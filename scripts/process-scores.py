@@ -20,7 +20,7 @@ for d in data:
     
     for n in NAMES:
         # New row to be added
-        new_score = dict(wordle_no = d['wordle_no'], name = n, score = d[n], win=0, win_alone=0)
+        new_score = dict(wordle_no = d['wordle_no'], name = n, score = d[n])
         
         # Mark whether it's a winning score
         if winners.get(n):
