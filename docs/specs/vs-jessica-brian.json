@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "name": "data",
+    "url": "https://eibanez.github.io/wordle/master-scores.json"
+  },
+  "transform": [{
+    "aggregate": [{"op": "count", "as": "number"}], "groupby": ["Jessica", "Brian"]
+  }],
+  "mark": "square",
+  "encoding": {
+    "x": {"field": "Jessica", "type": "nominal", "scale": {"domain": [1, 2, 3, 4, 5, 6, "X"]}},
+    "y": {"field": "Brian", "type": "nominal", "scale": {"domain": [1, 2, 3, 4, 5, 6, "X"]}},
+    "size": {"field": "number", "type": "quantitative", "title": null}
+  },
+  "width": 300,
+  "height": 300
+}
