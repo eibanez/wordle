@@ -4503,5 +4503,28 @@
     "win": 0,
     "win_alone": 0,
     "streak_id": 5
+  },
+  {
+    "wordle_no": 432,
+    "name": "Jessica",
+    "score": 4,
+    "win": 0,
+    "win_alone": 0,
+    "streak_id": 3
+  },
+  {
+    "wordle_no": 432,
+    "name": "Brian",
+    "score": "X",
+    "win": 0,
+    "win_alone": 0
+  },
+  {
+    "wordle_no": 432,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 5
   }
 ]

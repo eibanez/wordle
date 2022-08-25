@@ -14,7 +14,7 @@ for d in os.environ['ISSUE_BODY'].upper().split():
     raise RuntimeError('Invalid initial: {d[0]}')
 
   if d[-1] == 'X':
-    score = 'x'
+    score = 'X'
   else:
     score = int(d[-1])
   
