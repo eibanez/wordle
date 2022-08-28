@@ -3832,5 +3832,25 @@
     "wordle_no": 434,
     "name": "Eduardo",
     "score": "X"
+  },
+  {
+    "wordle_no": 435,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 3
+  },
+  {
+    "wordle_no": 435,
+    "name": "Brian",
+    "score": 5,
+    "win": 1,
+    "streak_id": 3
+  },
+  {
+    "wordle_no": 435,
+    "name": "Eduardo",
+    "score": 5,
+    "win": 1,
+    "streak_id": 6
   }
 ]
