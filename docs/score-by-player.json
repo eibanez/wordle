@@ -3892,5 +3892,24 @@
     "win": 1,
     "win_alone": 1,
     "streak_id": 6
+  },
+  {
+    "wordle_no": 438,
+    "name": "Jessica",
+    "score": 5,
+    "win": 1,
+    "streak_id": 3
+  },
+  {
+    "wordle_no": 438,
+    "name": "Brian",
+    "score": "X"
+  },
+  {
+    "wordle_no": 438,
+    "name": "Eduardo",
+    "score": 5,
+    "win": 1,
+    "streak_id": 6
   }
 ]
