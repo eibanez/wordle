@@ -4211,5 +4211,24 @@
     "score": 3,
     "win": 1,
     "streak_id": 7
+  },
+  {
+    "wordle_no": 454,
+    "name": "Jessica",
+    "score": "X"
+  },
+  {
+    "wordle_no": 454,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 454,
+    "name": "Eduardo",
+    "score": 6,
+    "streak_id": 7
   }
 ]
