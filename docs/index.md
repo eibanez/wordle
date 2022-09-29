@@ -7,6 +7,8 @@ title: Wordle scores
 <div id="time-wins-ties"></div><br />
 <div id="streak-duration"></div><br />
 <div id="score-histogram"></div>
+<div id="time-delta-wins-alone"></div><br />
+<div id="time-delta-wins-ties"></div><br />
 
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -20,4 +22,6 @@ title: Wordle scores
   load_plot("time-wins-ties");
   load_plot("streak-duration");
   load_plot("score-histogram");
+  load_plot("time-delta-wins-alone");
+  load_plot("time-delta-wins-ties");
 </script>
