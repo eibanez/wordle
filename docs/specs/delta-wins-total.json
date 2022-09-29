@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "name": "data",
+    "url": "https://eibanez.github.io/wordle/score-by-player.json"
+  },
+  "transform": [
+    {
+      "sort": [{"field": "wordle_no", "order": "ascending"}],
+      "groupby": ["name"],
+      "window": [{"op": "sum", "field": "win_alone", "as": "total_wins"}]
+    },
+    {
+      "groupby": ["wordle_no"],
+      "joinaggregate": [{"op": "min", "field": "total_wins", "as": "min_total_wins"}]
+    },
+    {
+      "calculate": "datum.total_wins - datum.min_total_wins",
+      "as": "delta_total_wins"
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "wordle_no", "type": "quantitative", "title": null},
+    "y": {"field": "delta_total_wins", "type": "quantitative", "title": "Total wins lead"},
+    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+  },
+  "width": 300,
+  "height": 200
+}
