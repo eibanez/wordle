@@ -4571,5 +4571,25 @@
     "win": 1,
     "win_alone": 1,
     "streak_id": 8
+  },
+  {
+    "wordle_no": 472,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 472,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 472,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 8
   }
 ]
