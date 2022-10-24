@@ -4970,5 +4970,25 @@
     "wordle_no": 491,
     "name": "Eduardo",
     "score": "X"
+  },
+  {
+    "wordle_no": 492,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 492,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 492,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 10
   }
 ]
