@@ -4951,5 +4951,24 @@
     "score": 3,
     "win": 1,
     "streak_id": 9
+  },
+  {
+    "wordle_no": 491,
+    "name": "Jessica",
+    "score": 5,
+    "win": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 491,
+    "name": "Brian",
+    "score": 5,
+    "win": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 491,
+    "name": "Eduardo",
+    "score": "X"
   }
 ]
