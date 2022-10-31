@@ -1074,6 +1074,12 @@
     "Brian": 6
   },
   {
+    "wordle_no": 422,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
     "wordle_no": 423,
     "Brian": 5,
     "Eduardo": 5,
@@ -1186,12 +1192,6 @@
     "Brian": 4,
     "Jessica": 4,
     "Eduardo": 6
-  },
-  {
-    "wordle_no": 422,
-    "Brian": 3,
-    "Jessica": 4,
-    "Eduardo": 5
   },
   {
     "wordle_no": 443,
@@ -1428,16 +1428,16 @@
     "Eduardo": 5
   },
   {
-    "wordle_no": 483,
-    "Jessica": 3,
-    "Brian": 5,
-    "Eduardo": "X"
-  },
-  {
     "wordle_no": 482,
     "Jessica": 4,
     "Brian": 4,
     "Eduardo": 6
+  },
+  {
+    "wordle_no": 483,
+    "Jessica": 3,
+    "Brian": 5,
+    "Eduardo": "X"
   },
   {
     "wordle_no": 484,
@@ -1495,9 +1495,15 @@
   },
   {
     "wordle_no": 493,
-    "Eduardo": 6,
+    "Eduardo": 5,
     "Brian": 4,
     "Jessica": 6
+  },
+  {
+    "wordle_no": 494,
+    "Brian": 3,
+    "Jessica": 5,
+    "Eduardo": 5
   },
   {
     "wordle_no": 495,
@@ -1516,12 +1522,6 @@
     "Eduardo": 4,
     "Jessica": 4,
     "Brian": 4
-  },
-  {
-    "wordle_no": 494,
-    "Brian": 3,
-    "Jessica": 5,
-    "Eduardo": 5
   },
   {
     "wordle_no": 498,

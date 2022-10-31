@@ -10,7 +10,7 @@ scores = []
 master_out = []
 streak_tracker = {n: 1 for n in NAMES}
 
-for d in data:
+for d in sorted(data, key=lambda item: item.get('wordle_no')):
     # Skip days before Brian started playing
     if d['wordle_no'] < 244:
         continue

@@ -3595,6 +3595,26 @@
     "streak_id": 5
   },
   {
+    "wordle_no": 422,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 3
+  },
+  {
+    "wordle_no": 422,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 2
+  },
+  {
+    "wordle_no": 422,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 5
+  },
+  {
     "wordle_no": 423,
     "name": "Jessica",
     "score": 6,
@@ -3970,26 +3990,6 @@
     "wordle_no": 441,
     "name": "Eduardo",
     "score": 6,
-    "streak_id": 6
-  },
-  {
-    "wordle_no": 422,
-    "name": "Jessica",
-    "score": 4,
-    "streak_id": 3
-  },
-  {
-    "wordle_no": 422,
-    "name": "Brian",
-    "score": 3,
-    "win": 1,
-    "win_alone": 1,
-    "streak_id": 4
-  },
-  {
-    "wordle_no": 422,
-    "name": "Eduardo",
-    "score": 5,
     "streak_id": 6
   },
   {
@@ -4773,25 +4773,6 @@
     "streak_id": 8
   },
   {
-    "wordle_no": 483,
-    "name": "Jessica",
-    "score": 3,
-    "win": 1,
-    "win_alone": 1,
-    "streak_id": 7
-  },
-  {
-    "wordle_no": 483,
-    "name": "Brian",
-    "score": 5,
-    "streak_id": 4
-  },
-  {
-    "wordle_no": 483,
-    "name": "Eduardo",
-    "score": "X"
-  },
-  {
     "wordle_no": 482,
     "name": "Jessica",
     "score": 4,
@@ -4809,7 +4790,26 @@
     "wordle_no": 482,
     "name": "Eduardo",
     "score": 6,
-    "streak_id": 9
+    "streak_id": 8
+  },
+  {
+    "wordle_no": 483,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 483,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 483,
+    "name": "Eduardo",
+    "score": "X"
   },
   {
     "wordle_no": 484,
@@ -5008,7 +5008,27 @@
   {
     "wordle_no": 493,
     "name": "Eduardo",
-    "score": 6,
+    "score": 5,
+    "streak_id": 10
+  },
+  {
+    "wordle_no": 494,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 494,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 494,
+    "name": "Eduardo",
+    "score": 5,
     "streak_id": 10
   },
   {
@@ -5070,26 +5090,6 @@
     "name": "Eduardo",
     "score": 4,
     "win": 1,
-    "streak_id": 10
-  },
-  {
-    "wordle_no": 494,
-    "name": "Jessica",
-    "score": 5,
-    "streak_id": 7
-  },
-  {
-    "wordle_no": 494,
-    "name": "Brian",
-    "score": 3,
-    "win": 1,
-    "win_alone": 1,
-    "streak_id": 4
-  },
-  {
-    "wordle_no": 494,
-    "name": "Eduardo",
-    "score": 5,
     "streak_id": 10
   },
   {
