@@ -5311,5 +5311,25 @@
     "win": 1,
     "win_alone": 1,
     "streak_id": 10
+  },
+  {
+    "wordle_no": 509,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 509,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 509,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 10
   }
 ]
