@@ -5431,5 +5431,25 @@
     "wordle_no": 515,
     "name": "Eduardo",
     "score": "X"
+  },
+  {
+    "wordle_no": 526,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 526,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 526,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 11
   }
 ]
