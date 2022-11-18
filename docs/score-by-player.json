@@ -5433,7 +5433,7 @@
     "score": "X"
   },
   {
-    "wordle_no": 526,
+    "wordle_no": 516,
     "name": "Jessica",
     "score": 2,
     "win": 1,
@@ -5441,15 +5441,35 @@
     "streak_id": 7
   },
   {
-    "wordle_no": 526,
+    "wordle_no": 516,
     "name": "Brian",
     "score": 3,
     "streak_id": 4
   },
   {
-    "wordle_no": 526,
+    "wordle_no": 516,
     "name": "Eduardo",
     "score": 3,
+    "streak_id": 11
+  },
+  {
+    "wordle_no": 517,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 517,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 517,
+    "name": "Eduardo",
+    "score": 5,
     "streak_id": 11
   }
 ]
