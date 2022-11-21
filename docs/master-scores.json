@@ -1654,5 +1654,11 @@
     "Brian": 3,
     "Jessica": 5,
     "Eduardo": 6
+  },
+  {
+    "wordle_no": 520,
+    "Jessica": 2,
+    "Brian": 3,
+    "Eduardo": 4
   }
 ]
