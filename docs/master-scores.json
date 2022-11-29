@@ -1692,7 +1692,7 @@
     "Eduardo": 4
   },
   {
-    "wordle_no": 525,
+    "wordle_no": 526,
     "Brian": 3,
     "Jessica": 3,
     "Eduardo": 6
@@ -1702,5 +1702,11 @@
     "Jessica": 2,
     "Eduardo": 3,
     "Brian": 5
+  },
+  {
+    "wordle_no": 528,
+    "Brian": 4,
+    "Eduardo": 4,
+    "Jessica": 3
   }
 ]
