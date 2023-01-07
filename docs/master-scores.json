@@ -1930,5 +1930,11 @@
     "Brian": 4,
     "Eduardo": 4,
     "Jessica": 5
+  },
+  {
+    "wordle_no": 567,
+    "Jessica": 2,
+    "Brian": 3,
+    "Eduardo": 3
   }
 ]
