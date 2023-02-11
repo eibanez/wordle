@@ -7179,5 +7179,25 @@
     "win": 1,
     "win_alone": 1,
     "streak_id": 13
+  },
+  {
+    "wordle_no": 602,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 7
+  },
+  {
+    "wordle_no": 602,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 602,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 13
   }
 ]
