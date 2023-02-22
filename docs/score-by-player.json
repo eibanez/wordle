@@ -7400,5 +7400,23 @@
     "name": "Eduardo",
     "score": 4,
     "streak_id": 13
+  },
+  {
+    "wordle_no": 613,
+    "name": "Jessica",
+    "score": "X"
+  },
+  {
+    "wordle_no": 613,
+    "name": "Brian",
+    "score": 6,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 613,
+    "name": "Eduardo",
+    "score": "X"
   }
 ]
