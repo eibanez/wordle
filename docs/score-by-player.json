@@ -8540,5 +8540,25 @@
     "name": "Eduardo",
     "score": 5,
     "streak_id": 15
+  },
+  {
+    "wordle_no": 670,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 9
+  },
+  {
+    "wordle_no": 670,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 670,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 15
   }
 ]
