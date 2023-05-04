@@ -8802,6 +8802,26 @@
     "streak_id": 16
   },
   {
+    "wordle_no": 683,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 10
+  },
+  {
+    "wordle_no": 683,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 4
+  },
+  {
+    "wordle_no": 683,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 16
+  },
+  {
     "wordle_no": 684,
     "name": "Jessica",
     "score": 5,
