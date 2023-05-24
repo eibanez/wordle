@@ -2831,5 +2831,11 @@
     "wordle_no": 703,
     "Brian": 3,
     "Eduardo": 2
+  },
+  {
+    "wordle_no": 704,
+    "Brian": 5,
+    "Jessica": 3,
+    "Eduardo": "X"
   }
 ]
