@@ -19,8 +19,8 @@ for d in sorted(data, key=lambda item: item.get('wordle_no')):
     master_out.append(d)
     
     # Calculate minimum score
-    win_score = min(d[n] for n in NAMES if d[n] != 'X')
-    winners = {n: True for n in NAMES if d[n] == win_score}
+    win_score = min(v for k, v in d.items() if v != 'X')
+    winners = {k: True for k, v in d.items() if v == win_score}
     
     for n in NAMES:
         # New row to be added
