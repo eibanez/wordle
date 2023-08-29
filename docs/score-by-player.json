@@ -9950,6 +9950,26 @@
     "streak_id": 21
   },
   {
+    "wordle_no": 773,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 19
+  },
+  {
+    "wordle_no": 773,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 5
+  },
+  {
+    "wordle_no": 773,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 21
+  },
+  {
     "wordle_no": 774,
     "name": "Jessica",
     "score": 4,
