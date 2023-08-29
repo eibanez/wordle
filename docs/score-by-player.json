@@ -10206,6 +10206,26 @@
     "streak_id": 23
   },
   {
+    "wordle_no": 758,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 22
+  },
+  {
+    "wordle_no": 758,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 5
+  },
+  {
+    "wordle_no": 758,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 23
+  },
+  {
     "wordle_no": 769,
     "name": "Jessica",
     "score": 3,
