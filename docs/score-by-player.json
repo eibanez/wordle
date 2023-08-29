@@ -9950,10 +9950,18 @@
     "streak_id": 21
   },
   {
+    "wordle_no": 744,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 5
+  },
+  {
     "wordle_no": 747,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 747,
@@ -9967,14 +9975,14 @@
     "name": "Eduardo",
     "score": 4,
     "win": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 769,
     "name": "Jessica",
     "score": 3,
     "win": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 769,
@@ -9988,13 +9996,13 @@
     "name": "Eduardo",
     "score": 3,
     "win": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 770,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 770,
@@ -10008,13 +10016,13 @@
     "wordle_no": 770,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 771,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 771,
@@ -10028,13 +10036,13 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 772,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 772,
@@ -10048,7 +10056,7 @@
     "score": 3,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 773,
@@ -10056,7 +10064,7 @@
     "score": 4,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 773,
@@ -10068,13 +10076,13 @@
     "wordle_no": 773,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 774,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 774,
@@ -10088,13 +10096,13 @@
     "wordle_no": 774,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 775,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 775,
@@ -10108,13 +10116,13 @@
     "wordle_no": 775,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 776,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 776,
@@ -10128,7 +10136,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 777,
@@ -10136,7 +10144,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 777,
@@ -10148,13 +10156,13 @@
     "wordle_no": 777,
     "name": "Eduardo",
     "score": 3,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 778,
     "name": "Jessica",
     "score": 6,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 778,
@@ -10168,7 +10176,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 779,
@@ -10176,7 +10184,7 @@
     "score": 4,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 779,
@@ -10188,13 +10196,13 @@
     "wordle_no": 779,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 780,
     "name": "Jessica",
     "score": 6,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 780,
@@ -10208,13 +10216,13 @@
     "wordle_no": 780,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 781,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 781,
@@ -10228,13 +10236,13 @@
     "wordle_no": 781,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 782,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 782,
@@ -10248,13 +10256,13 @@
     "wordle_no": 782,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 783,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 783,
@@ -10268,13 +10276,13 @@
     "score": 3,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 784,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 784,
@@ -10288,7 +10296,7 @@
     "wordle_no": 784,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 785,
@@ -10296,7 +10304,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 785,
@@ -10308,13 +10316,13 @@
     "wordle_no": 785,
     "name": "Eduardo",
     "score": 3,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 786,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 786,
@@ -10328,7 +10336,7 @@
     "wordle_no": 786,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 787,
@@ -10336,7 +10344,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 787,
@@ -10348,13 +10356,13 @@
     "wordle_no": 787,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 788,
     "name": "Jessica",
     "score": 5,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 788,
@@ -10368,14 +10376,14 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 789,
     "name": "Jessica",
     "score": 3,
     "win": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 789,
@@ -10388,13 +10396,13 @@
     "wordle_no": 789,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 790,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 790,
@@ -10408,13 +10416,13 @@
     "wordle_no": 790,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 791,
     "name": "Jessica",
     "score": 6,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 791,
@@ -10428,13 +10436,13 @@
     "score": 4,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 792,
     "name": "Jessica",
     "score": 3,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 792,
@@ -10448,13 +10456,13 @@
     "wordle_no": 792,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 793,
     "name": "Jessica",
     "score": 3,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 793,
@@ -10468,13 +10476,13 @@
     "wordle_no": 793,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 794,
     "name": "Jessica",
     "score": 4,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 794,
@@ -10488,13 +10496,13 @@
     "score": 3,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 795,
     "name": "Jessica",
     "score": 6,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 795,
@@ -10508,7 +10516,7 @@
     "score": 4,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 796,
@@ -10516,7 +10524,7 @@
     "score": 3,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 796,
@@ -10528,13 +10536,13 @@
     "wordle_no": 796,
     "name": "Eduardo",
     "score": 5,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 797,
     "name": "Jessica",
     "score": 3,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 797,
@@ -10548,14 +10556,14 @@
     "wordle_no": 797,
     "name": "Eduardo",
     "score": 3,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 798,
     "name": "Jessica",
     "score": 2,
     "win": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 798,
@@ -10569,14 +10577,14 @@
     "name": "Eduardo",
     "score": 2,
     "win": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 799,
     "name": "Jessica",
     "score": 3,
     "win": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 799,
@@ -10590,7 +10598,7 @@
     "name": "Eduardo",
     "score": 3,
     "win": 1,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 800,
@@ -10598,7 +10606,7 @@
     "score": 2,
     "win": 1,
     "win_alone": 1,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 800,
@@ -10610,13 +10618,13 @@
     "wordle_no": 800,
     "name": "Eduardo",
     "score": 4,
-    "streak_id": 21
+    "streak_id": 22
   },
   {
     "wordle_no": 801,
     "name": "Jessica",
     "score": 6,
-    "streak_id": 19
+    "streak_id": 20
   },
   {
     "wordle_no": 801,
@@ -10630,6 +10638,6 @@
     "name": "Eduardo",
     "score": 5,
     "win": 1,
-    "streak_id": 21
+    "streak_id": 22
   }
 ]
