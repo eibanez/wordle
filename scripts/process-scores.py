@@ -24,7 +24,11 @@ for d in sorted(data, key=lambda item: item.get('wordle_no')):
     
     for n in NAMES:
         # New row to be added
-        new_score = dict(wordle_no = d['wordle_no'], name = n, score = d[n])
+        try:
+            new_score = dict(wordle_no = d['wordle_no'], name = n, score = d[n])
+        except KeyError:
+            streak_tracker[n] += 1
+            continue
         
         # Mark whether it's a winning score
         if winners.get(n):
