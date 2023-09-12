@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "name": "data",
+    "url": "https://eibanez.github.io/wordle/score-by-player.json"
+  },
+  "transform": [
+    {
+      "sort": [{"field": "wordle_no", "order": "ascending"}],
+      "groupby": ["name"],
+      "window": [
+        {"op": "sum", "field": "win", "as": "wins"},
+        {"op": "count", "field": "name", "as": "count"}
+      ]
+    },
+    {
+      "calculate": "datum.wins / datum.count * 100", "as": "ratio"
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "wordle_no", "type": "quantitative", "title": null},
+    "y": {"field": "ratio", "type": "quantitative", "title": "Win ratio, with ties (%)"},
+    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+  },
+  "width": 300,
+  "height": 250
+}
