@@ -3,6 +3,7 @@ title: Wordle scores
 ---
 
 <div id="total-wins"></div><br />
+<div id="total-perc"></div><br />
 <div id="time-wins-alone"></div><br />
 <div id="time-wins-ties"></div><br />
 <div id="time-win-ratio-alone"></div><br />
@@ -20,6 +21,7 @@ title: Wordle scores
 
 <script type="text/javascript">
   load_plot("total-wins");
+  load_plot("total-perc");
   load_plot("time-wins-alone");
   load_plot("time-wins-ties");
   load_plot("time-win-ratio-alone");
