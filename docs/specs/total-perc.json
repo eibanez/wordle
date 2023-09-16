@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "name": "data",
+    "url": "https://eibanez.github.io/wordle/score-by-player.json"
+  },
+  "encoding": {
+    "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
+  },
+  "transform": [
+    {
+      "groupby": ["name"],
+      "aggregate": [
+        {"op": "sum", "field": "win_alone", "as": "win_alone"},
+        {"op": "sum", "field": "win", "as": "win"},
+        {"op": "count", "field": "win", "as": "count"}
+      ]
+    },
+    {"calculate": "datum.win / datum.count", "as": "perc_win"},
+    {"calculate": "datum.win_alone / datum.count", "as": "perc_win_alone"}
+  ],
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+         "x": {"field": "perc_win", "type": "quantitative", "title": null, "axis": {"format": ".0%"}},
+         "color": {"datum": "Win ratio with ties", "scale": {"range": ["FireBrick", "GoldenRod"]}}
+      }
+    },
+    {
+      "mark": "bar",
+      "encoding": {
+         "x": {"field": "perc_win_alone", "type": "quantitative", "title": null, "axis": {"format": ".0%"}},
+         "color": {"datum": "Win ratio alone", "scale": {"range": ["FireBrick", "GoldenRod"]}}
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "encoding": {
+         "x": {"field": "perc_win_alone", "type": "quantitative", "title": null, "axis": {"format": ".0%"}},
+         "text": {"field": "perc_win_alone", "type": "quantitative", "title": null, "format": ".0%"}
+      }
+    },
+    {
+      "mark": {"type": "text", "align": "right", "xOffset": -5, "color": "white"},
+      "encoding": {
+         "x": {"field": "perc_win", "type": "quantitative", "title": null, "axis": {"format": ".0%"}},
+         "text": {"field": "perc_win", "type": "quantitative", "title": null, "format": ".0%"}
+      }
+    }
+  ],
+  "width": 300,
+  "height": 100
+}
