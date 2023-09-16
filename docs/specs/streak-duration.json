@@ -10,7 +10,7 @@
     "aggregate": [{"op": "count", "as": "streak_duration"}], "groupby": ["name", "streak_id"]
   }],
   "encoding": {
-      "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+      "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
   },
   "layer": [
     {
