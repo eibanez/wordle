@@ -19,7 +19,7 @@
   "encoding": {
     "x": {"field": "wordle_no", "type": "quantitative", "title": null},
     "y": {"field": "ratio", "type": "quantitative", "title": "Win ratio (%)"},
-    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+    "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
   },
   "width": 300,
   "height": 250
