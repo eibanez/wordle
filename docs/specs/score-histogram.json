@@ -7,13 +7,13 @@
   "encoding": {
     "x": {"field": "score", "type": "quantitative", "title": null, "aggregate": "count"},
     "y": {"field": "score", "type": "nominal", "title": null, "scale": {"domain": [1, 2, 3, 4, 5, 6, "X"]}},
-    "yOffset": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+    "yOffset": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
   },
   "layer": [
     {
       "mark": "bar",
       "encoding": {
-        "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+        "color": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
       }
     },
     {
