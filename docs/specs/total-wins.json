@@ -5,7 +5,7 @@
     "url": "https://eibanez.github.io/wordle/score-by-player.json"
   },
   "encoding": {
-    "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Jessica", "Brian", "Eduardo"]}}
+    "y": {"field": "name", "type": "nominal", "title": null, "scale": {"domain": ["Brian", "Jessica", "Eduardo"]}}
   },
   "layer": [
     {
