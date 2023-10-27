@@ -12196,7 +12196,8 @@
   {
     "wordle_no": 857,
     "name": "Eduardo",
-    "score": 4,
+    "score": 3,
+    "win": 1,
     "streak_id": 25
   },
   {
@@ -12235,6 +12236,25 @@
   },
   {
     "wordle_no": 859,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 860,
+    "name": "Jessica",
+    "score": "X"
+  },
+  {
+    "wordle_no": 860,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 5
+  },
+  {
+    "wordle_no": 860,
     "name": "Eduardo",
     "score": 5,
     "streak_id": 25
