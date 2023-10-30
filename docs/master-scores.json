@@ -3682,5 +3682,11 @@
     "Brian": 3,
     "Jessica": "X",
     "Eduardo": 5
+  },
+  {
+    "wordle_no": 861,
+    "Brian": 3,
+    "Eduardo": 4,
+    "Jessica": 3
   }
 ]
