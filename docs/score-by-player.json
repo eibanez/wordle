@@ -12456,5 +12456,25 @@
     "score": 3,
     "win": 1,
     "streak_id": 25
+  },
+  {
+    "wordle_no": 870,
+    "name": "Jessica",
+    "score": 3,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 870,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 5
+  },
+  {
+    "wordle_no": 870,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
   }
 ]
