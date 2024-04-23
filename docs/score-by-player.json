@@ -13174,5 +13174,2243 @@
     "name": "Eduardo",
     "score": 5,
     "streak_id": 25
+  },
+  {
+    "wordle_no": 906,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 906,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 906,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 906,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 906,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 906,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 907,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 907,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 907,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 908,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 908,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 908,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 909,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 909,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 909,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 910,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 910,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 910,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 911,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 911,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 911,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 912,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 912,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 912,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 913,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 913,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 913,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 914,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 914,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 914,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 915,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 915,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 915,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 916,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 916,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 916,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 917,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 917,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 917,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 918,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 918,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 918,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 919,
+    "name": "Jessica",
+    "score": 5,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 919,
+    "name": "Brian",
+    "score": 6,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 919,
+    "name": "Eduardo",
+    "score": 5,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 920,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 920,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 920,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 921,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 921,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 921,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 922,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 922,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 922,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 923,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 923,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 923,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 924,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 924,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 924,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 925,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 925,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 925,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 926,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 926,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 926,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 927,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 927,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 927,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 928,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 928,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 928,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 929,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 929,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 929,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 930,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 930,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 930,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 931,
+    "name": "Jessica",
+    "score": 5,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 931,
+    "name": "Brian",
+    "score": 5,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 931,
+    "name": "Eduardo",
+    "score": 6,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 932,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 932,
+    "name": "Brian",
+    "score": 6,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 932,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 933,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 933,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 933,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 934,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 934,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 934,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 935,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 935,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 935,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 936,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 936,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 936,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 937,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 937,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 937,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 938,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 938,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 938,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 939,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 939,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 939,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 940,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 940,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 940,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 941,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 941,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 941,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 942,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 942,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 942,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 943,
+    "name": "Jessica",
+    "score": 3,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 943,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 943,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 944,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 944,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 944,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 945,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 945,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 945,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 946,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 946,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 946,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 947,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 947,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 947,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 948,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 948,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 948,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 949,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 949,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 949,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 950,
+    "name": "Jessica",
+    "score": 3,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 950,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 950,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 951,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 951,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 951,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 952,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 952,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 952,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 953,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 953,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 953,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 954,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 954,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 954,
+    "name": "Eduardo",
+    "score": 6,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 955,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 955,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 955,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 956,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 956,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 956,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 957,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 957,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 957,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 958,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 958,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 958,
+    "name": "Eduardo",
+    "score": 6,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 959,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 959,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 959,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 960,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 960,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 960,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 961,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 961,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 961,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 962,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 962,
+    "name": "Brian",
+    "score": 3,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 962,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 963,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 963,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 963,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 964,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 964,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 964,
+    "name": "Eduardo",
+    "score": 3,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 965,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 965,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 965,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 966,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 966,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 966,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 967,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 967,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 967,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 968,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 968,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 968,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 969,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 969,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 969,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 970,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 970,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 970,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 971,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 971,
+    "name": "Brian",
+    "score": 2,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 971,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 972,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 972,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 972,
+    "name": "Eduardo",
+    "score": 6,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 973,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 973,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 973,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 974,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 974,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 974,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 975,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 975,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 975,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 976,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 976,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 976,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 977,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 977,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 977,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 978,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 978,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 978,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 979,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 979,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 979,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 980,
+    "name": "Jessica",
+    "score": "X"
+  },
+  {
+    "wordle_no": 980,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 980,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 981,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 981,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 981,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 982,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 982,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 982,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 983,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 983,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 983,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 984,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 984,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 984,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 985,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 985,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 985,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 986,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 986,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 986,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 987,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 987,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 987,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 988,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 988,
+    "name": "Brian",
+    "score": 6,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 988,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 989,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 989,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 989,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 25
+  },
+  {
+    "wordle_no": 990,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 990,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 990,
+    "name": "Eduardo",
+    "score": "X"
+  },
+  {
+    "wordle_no": 991,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 991,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 991,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 992,
+    "name": "Jessica",
+    "score": 2,
+    "win": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 992,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 992,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 993,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 993,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 993,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 994,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 994,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 994,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 995,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 995,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 995,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 996,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 996,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 996,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 997,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 997,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 997,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 998,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 28
+  },
+  {
+    "wordle_no": 998,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 998,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 999,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 999,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1000,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1000,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1000,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1001,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1001,
+    "name": "Brian",
+    "score": 4,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1001,
+    "name": "Eduardo",
+    "score": 4,
+    "win": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1002,
+    "name": "Jessica",
+    "score": 3,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1002,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1002,
+    "name": "Eduardo",
+    "score": 2,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1003,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1003,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1003,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1004,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1004,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1004,
+    "name": "Eduardo",
+    "score": 4,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1005,
+    "name": "Jessica",
+    "score": 5,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1005,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1005,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 26
+  },
+  {
+    "wordle_no": 1006,
+    "name": "Jessica",
+    "score": 4,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1006,
+    "name": "Brian",
+    "score": 5,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1006,
+    "name": "Eduardo",
+    "score": "X"
+  },
+  {
+    "wordle_no": 1007,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1007,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1007,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1008,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1008,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1008,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1009,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1009,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1009,
+    "name": "Eduardo",
+    "score": 5,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1010,
+    "name": "Jessica",
+    "score": 6,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1010,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1010,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1011,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1011,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1011,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1012,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1012,
+    "name": "Brian",
+    "score": 6,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1012,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1013,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1013,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1013,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "win_alone": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1014,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1014,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1014,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1015,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1015,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1015,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
+  },
+  {
+    "wordle_no": 1016,
+    "name": "Jessica",
+    "score": 3,
+    "win": 1,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1016,
+    "name": "Brian",
+    "score": 4,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1016,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
   }
 ]

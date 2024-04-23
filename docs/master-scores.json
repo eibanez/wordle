@@ -3957,5 +3957,676 @@
     "Jessica": 6,
     "Eduardo": 5,
     "Brian": 2
+  },
+  {
+    "wordle_no": 906,
+    "Eduardo": 3,
+    "Jessica": 2,
+    "Brian": 3
+  },
+  {
+    "wordle_no": 906,
+    "Brian": 3,
+    "Jessica": 2,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 907,
+    "Jessica": 5,
+    "Eduardo": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 908,
+    "Brian": 4,
+    "Eduardo": 2,
+    "Jessica": 6
+  },
+  {
+    "wordle_no": 909,
+    "Jessica": 4,
+    "Brian": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 910,
+    "Brian": 4,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 911,
+    "Brian": 3,
+    "Jessica": 3,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 912,
+    "Jessica": 3,
+    "Eduardo": 4,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 913,
+    "Brian": 4,
+    "Eduardo": 4,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 914,
+    "Jessica": 3,
+    "Brian": 5,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 915,
+    "Jessica": 4,
+    "Eduardo": 4,
+    "Brian": 3
+  },
+  {
+    "wordle_no": 916,
+    "Brian": 5,
+    "Eduardo": 3,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 917,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 918,
+    "Brian": 5,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 919,
+    "Brian": 6,
+    "Jessica": 5,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 920,
+    "Brian": 3,
+    "Eduardo": 3,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 921,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 2
+  },
+  {
+    "wordle_no": 922,
+    "Brian": 5,
+    "Jessica": 3,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 923,
+    "Jessica": 5,
+    "Brian": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 924,
+    "Brian": 3,
+    "Jessica": 5,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 925,
+    "Brian": 4,
+    "Eduardo": 2,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 926,
+    "Eduardo": 4,
+    "Brian": 3,
+    "Jessica": 6
+  },
+  {
+    "wordle_no": 927,
+    "Brian": 3,
+    "Jessica": 5,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 928,
+    "Eduardo": 3,
+    "Jessica": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 929,
+    "Jessica": 4,
+    "Eduardo": 3,
+    "Brian": 5
+  },
+  {
+    "wordle_no": 930,
+    "Brian": 5,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 931,
+    "Eduardo": 6,
+    "Jessica": 5,
+    "Brian": 5
+  },
+  {
+    "wordle_no": 932,
+    "Brian": 6,
+    "Eduardo": 4,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 933,
+    "Brian": 5,
+    "Jessica": 5,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 934,
+    "Brian": 4,
+    "Eduardo": 5,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 935,
+    "Brian": 4,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 936,
+    "Jessica": 3,
+    "Eduardo": 5,
+    "Brian": 3
+  },
+  {
+    "wordle_no": 937,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 938,
+    "Brian": 3,
+    "Eduardo": 5,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 939,
+    "Brian": 4,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 940,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 941,
+    "Brian": 3,
+    "Eduardo": 4,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 942,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 943,
+    "Jessica": 3,
+    "Eduardo": 4,
+    "Brian": 2
+  },
+  {
+    "wordle_no": 944,
+    "Eduardo": 4,
+    "Brian": 3,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 945,
+    "Brian": 3,
+    "Jessica": 3,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 946,
+    "Jessica": 2,
+    "Brian": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 947,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 948,
+    "Eduardo": 5,
+    "Brian": 3,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 949,
+    "Eduardo": 4,
+    "Brian": 5,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 950,
+    "Eduardo": 4,
+    "Brian": 2,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 951,
+    "Eduardo": 4,
+    "Brian": 4,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 952,
+    "Brian": 3,
+    "Eduardo": 2,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 953,
+    "Brian": 5,
+    "Jessica": 6,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 954,
+    "Brian": 4,
+    "Eduardo": 6,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 955,
+    "Jessica": 4,
+    "Eduardo": 5,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 956,
+    "Jessica": 3,
+    "Eduardo": 5,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 957,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 958,
+    "Brian": 3,
+    "Eduardo": 6,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 959,
+    "Brian": 3,
+    "Eduardo": 4,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 960,
+    "Jessica": 4,
+    "Brian": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 961,
+    "Brian": 5,
+    "Jessica": 6,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 962,
+    "Brian": 3,
+    "Jessica": 2,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 963,
+    "Jessica": 4,
+    "Eduardo": 3,
+    "Brian": 2
+  },
+  {
+    "wordle_no": 964,
+    "Brian": 2,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 965,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 966,
+    "Brian": 4,
+    "Jessica": 4,
+    "Eduardo": 2
+  },
+  {
+    "wordle_no": 967,
+    "Brian": 3,
+    "Jessica": 3,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 968,
+    "Brian": 4,
+    "Eduardo": 3,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 969,
+    "Jessica": 4,
+    "Eduardo": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 970,
+    "Brian": 3,
+    "Eduardo": 3,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 971,
+    "Jessica": 2,
+    "Brian": 2,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 972,
+    "Eduardo": 6,
+    "Jessica": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 973,
+    "Brian": 3,
+    "Eduardo": 4,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 974,
+    "Eduardo": 3,
+    "Brian": 5,
+    "Jessica": 3
+  },
+  {
+    "wordle_no": 975,
+    "Eduardo": 3,
+    "Brian": 3,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 976,
+    "Brian": 4,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 977,
+    "Eduardo": 4,
+    "Brian": 4,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 978,
+    "Brian": 4,
+    "Eduardo": 4,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 979,
+    "Brian": 3,
+    "Eduardo": 3,
+    "Jessica": 6
+  },
+  {
+    "wordle_no": 980,
+    "Brian": 5,
+    "Jessica": "X",
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 981,
+    "Brian": 4,
+    "Jessica": 3,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 982,
+    "Jessica": 5,
+    "Brian": 3,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 983,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 984,
+    "Brian": 3,
+    "Jessica": 3,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 985,
+    "Jessica": 5,
+    "Brian": 3,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 986,
+    "Eduardo": 3,
+    "Jessica": 4,
+    "Brian": 5
+  },
+  {
+    "wordle_no": 987,
+    "Eduardo": 3,
+    "Brian": 4,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 988,
+    "Jessica": 5,
+    "Eduardo": 4,
+    "Brian": 6
+  },
+  {
+    "wordle_no": 989,
+    "Jessica": 3,
+    "Brian": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 990,
+    "Eduardo": "X",
+    "Jessica": 6,
+    "Brian": 3
+  },
+  {
+    "wordle_no": 991,
+    "Brian": 5,
+    "Jessica": 3,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 992,
+    "Brian": 4,
+    "Jessica": 2,
+    "Eduardo": 2
+  },
+  {
+    "wordle_no": 993,
+    "Brian": 4,
+    "Jessica": 3,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 994,
+    "Jessica": 5,
+    "Brian": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 995,
+    "Eduardo": 2,
+    "Jessica": 4,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 996,
+    "Jessica": 3,
+    "Brian": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 997,
+    "Brian": 4,
+    "Jessica": 5,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 998,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 999,
+    "Brian": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 1000,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 1001,
+    "Brian": 4,
+    "Jessica": 6,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 1002,
+    "Brian": 4,
+    "Jessica": 3,
+    "Eduardo": 2
+  },
+  {
+    "wordle_no": 1003,
+    "Eduardo": 3,
+    "Jessica": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 1004,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 4
+  },
+  {
+    "wordle_no": 1005,
+    "Brian": 4,
+    "Eduardo": 3,
+    "Jessica": 5
+  },
+  {
+    "wordle_no": 1006,
+    "Brian": 5,
+    "Eduardo": "X",
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 1007,
+    "Eduardo": 3,
+    "Jessica": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 1008,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 1009,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 5
+  },
+  {
+    "wordle_no": 1010,
+    "Eduardo": 3,
+    "Brian": 4,
+    "Jessica": 6
+  },
+  {
+    "wordle_no": 1011,
+    "Jessica": 4,
+    "Brian": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 1012,
+    "Eduardo": 3,
+    "Jessica": 4,
+    "Brian": 6
+  },
+  {
+    "wordle_no": 1013,
+    "Jessica": 4,
+    "Eduardo": 3,
+    "Brian": 4
+  },
+  {
+    "wordle_no": 1014,
+    "Brian": 3,
+    "Eduardo": 3,
+    "Jessica": 4
+  },
+  {
+    "wordle_no": 1015,
+    "Brian": 3,
+    "Jessica": 4,
+    "Eduardo": 3
+  },
+  {
+    "wordle_no": 1016,
+    "Brian": 4,
+    "Jessica": 3,
+    "Eduardo": 3
   }
 ]
