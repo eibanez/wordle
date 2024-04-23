@@ -15412,5 +15412,25 @@
     "score": 4,
     "win": 1,
     "streak_id": 27
+  },
+  {
+    "wordle_no": 1018,
+    "name": "Jessica",
+    "score": 4,
+    "streak_id": 29
+  },
+  {
+    "wordle_no": 1018,
+    "name": "Brian",
+    "score": 3,
+    "win": 1,
+    "streak_id": 6
+  },
+  {
+    "wordle_no": 1018,
+    "name": "Eduardo",
+    "score": 3,
+    "win": 1,
+    "streak_id": 27
   }
 ]
