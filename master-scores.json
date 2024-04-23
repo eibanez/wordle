@@ -4744,5 +4744,11 @@
     "Brian": 3,
     "Jessica": 4,
     "Eduardo": 5
+  },
+  {
+    "wordle_no": 1024,
+    "Jessica": 5,
+    "Brian": 4,
+    "Eduardo": 4
   }
 ]
